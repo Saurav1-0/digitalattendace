@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+
+# Generated data
+backend/data
+backend/data/student_gallery.npz
+backend/data/classroom_images/results/
+
+# Personal biometric data
+backend/data/enrollment/
+backend/data/classroom_images/
+
+# OS
+.DS_Store
+Thumbs.db
