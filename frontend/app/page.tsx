@@ -99,7 +99,7 @@ export default function Home() {
                 <div>
                   <h2 className="text-lg font-semibold text-white">Latest Attendance Roster</h2>
                   <p className="text-sm text-zinc-400">
-                    Provisional results from multi-angle classroom scan
+                    Provisional results from multi-angle classroom scan  saurav
                   </p>
                 </div>
                 <button
